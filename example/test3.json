@@ -1,0 +1,12 @@
+{
+ "columnName":"log3",
+ "columnIndex":2,
+ "logFileFullPath":"c:/PRG/Java/ilet/example/log3.log",
+ "lineMarkerKeywords":["5star"],
+ "lineTimelineKeyword":["Apache"],
+ "countFromFirstToLast":[false],
+ "logDateTimeFormat":"dd/MMM/yyyy:HH:mm:ss Z",
+ "locale":"en",
+ "timestampStart":21,
+ "timestampEnd":47
+}

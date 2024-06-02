@@ -1,0 +1,12 @@
+{
+ "columnName":"log2",
+ "columnIndex":1,
+ "logFileFullPath":"c:/PRG/Java/ilet/example/log2.log",
+ "lineMarkerKeywords":["kahadb"],
+ "lineTimelineKeyword":["KAHA"],
+ "countFromFirstToLast":[false],
+ "logDateTimeFormat":"yyyy-MM-dd HH:mm:ss,SSS",
+ "locale":"en",
+ "timestampStart":0,
+ "timestampEnd":23
+}

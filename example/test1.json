@@ -1,0 +1,12 @@
+{
+ "columnName":"log1",
+ "columnIndex":0,
+ "logFileFullPath":"c:/PRG/Java/ilet/example/log1.log",
+ "lineMarkerKeywords":["check"],
+ "lineTimelineKeyword":["WriteCheckTimer"],
+ "countFromFirstToLast":[false],
+ "logDateTimeFormat":"yyyy-MM-dd HH:mm:ss,SSS",
+ "locale":"en",
+ "timestampStart":0,
+ "timestampEnd":23
+}
